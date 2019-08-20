@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 127 x 127
+	-number of rings: 33
+	-number of wedges: 129
+	-blindspot_radius: 12.641245
+
+subslice identified in 3:...
+
+	-Location in target slice: [26 34]
+	-Variance (within retinal rings): 0.0304146587923
+	-Density: 0.746275019929
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (129, 122)
+			-Rotation: wedge 32 out of 50, which corresponds to the
+			subslice being rotated 230.40 degrees anti-clockwise
+			-Similarity: 0.881496
+
+		Slice:
+			-Flipped? False
+			-Location: (98, 106)
+			-Rotation: wedge 129 out of 197, which corresponds to the
+			slice being rotated 235.74 degrees anti-clockwise
+			-Similarity: 0.836089
+
+		Hybrid Similarity: 0.843657
+
+
+Subslice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (128, 88)
+			-Rotation: wedge 0 out of 50, which corresponds to the
+			subslice being rotated 0.00 degrees anti-clockwise
+			-Similarity: 0.922366
+
+		Slice:
+			-Flipped? True
+			-Location: (102, 75)
+			-Rotation: wedge 1 out of 197, which corresponds to the
+			slice being rotated 1.83 degrees anti-clockwise
+			-Similarity: 0.580286
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (129, 122)
+			-Rotation: wedge 32 out of 50, which corresponds to the
+			subslice being rotated 230.40 degrees anti-clockwise
+			-Similarity: 0.881496
+
+		Slice:
+			-Flipped? False
+			-Location: (98, 106)
+			-Rotation: wedge 129 out of 197, which corresponds to the
+			slice being rotated 235.74 degrees anti-clockwise
+			-Similarity: 0.836089
+

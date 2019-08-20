@@ -1,0 +1,52 @@
+Using retina with following parameters:
+	-size: 104 x 104
+	-number of rings: 20
+	-number of wedges: 78
+	-blindspot_radius: 10.305398
+
+Using slice slice1:...
+
+Results:...
+
+	(Not flipped) Best Slot: 1
+
+	Slot 0:
+
+		Slice in Slot/Choice:
+			-Flipped? False
+			-Location: (66, 130)
+			-Rotation: wedge 39 out of 78, which corresponds to the
+			slice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.481632
+
+
+	Slot 1:
+
+		Slice in Slot/Choice:
+			-Flipped? False
+			-Location: (54, 96)
+			-Rotation: wedge 0 out of 78, which corresponds to the
+			slice being rotated 0.00 degrees anti-clockwise
+			-Similarity: 0.720128
+
+
+	Slot 2:
+
+		Slice in Slot/Choice:
+			-Flipped? True
+			-Location: (35, 111)
+			-Rotation: wedge 20 out of 78, which corresponds to the
+			slice being rotated 92.31 degrees anti-clockwise
+			-Similarity: 0.717921
+
+
+	Slot 3:
+
+		Slice in Slot/Choice:
+			-Flipped? True
+			-Location: (54, 89)
+			-Rotation: wedge 39 out of 78, which corresponds to the
+			slice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.477907
+
+

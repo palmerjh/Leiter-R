@@ -1,0 +1,17 @@
+Problem,Choice,Slice,Slice-Slot,Subslice-Slot,Real Slot,,Slice Correct?,Subslice Correct?
+11_scaled,choice_A,0,,2,1,,,0
+11_scaled,choice_A,1,,2,1,,,0
+11_scaled,choice_A,2,,2,1,,,0
+---,---,---,---,---,---,---,---,---
+11_scaled,choice_B,0,,0,3,,,0
+11_scaled,choice_B,1,,0,3,,,0
+11_scaled,choice_B,2,,3,3,,,1
+11_scaled,choice_B,3,,0,3,,,0
+11_scaled,choice_B,4,,0,3,,,0
+---,---,---,---,---,---,---,---,---
+11_scaled,choice_C,0,,0,0,,,1
+11_scaled,choice_C,1,,0,0,,,1
+11_scaled,choice_C,2,,0,0,,,1
+11_scaled,choice_C,3,,0,0,,,1
+---,---,---,---,---,---,---,---,---
+---,---,---,---,---,---,---,---,---

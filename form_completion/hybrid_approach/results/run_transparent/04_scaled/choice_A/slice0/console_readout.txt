@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 118 x 118
+	-number of rings: 47
+	-number of wedges: 182
+	-blindspot_radius: 11.630710
+
+subslice identified in slice0:...
+
+	-Location in target slice: [33 35]
+	-Variance (within retinal rings): 0.0198773855267
+	-Density: 0.701073023071
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (268, 225)
+			-Rotation: wedge 28 out of 50, which corresponds to the
+			subslice being rotated 201.60 degrees anti-clockwise
+			-Similarity: 0.825877
+
+		Slice:
+			-Flipped? False
+			-Location: (253, 221)
+			-Rotation: wedge 102 out of 182, which corresponds to the
+			slice being rotated 201.76 degrees anti-clockwise
+			-Similarity: 0.762362
+
+		Hybrid Similarity: 0.772948
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (269, 230)
+			-Rotation: wedge 0 out of 50, which corresponds to the
+			subslice being rotated 0.00 degrees anti-clockwise
+			-Similarity: 0.853303
+
+		Slice:
+			-Flipped? False
+			-Location: (235, 196)
+			-Rotation: wedge -2 out of 182, which corresponds to the
+			slice being rotated -3.96 degrees anti-clockwise
+			-Similarity: 0.614678
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (268, 225)
+			-Rotation: wedge 28 out of 50, which corresponds to the
+			subslice being rotated 201.60 degrees anti-clockwise
+			-Similarity: 0.825877
+
+		Slice:
+			-Flipped? False
+			-Location: (253, 221)
+			-Rotation: wedge 102 out of 182, which corresponds to the
+			slice being rotated 201.76 degrees anti-clockwise
+			-Similarity: 0.762362
+

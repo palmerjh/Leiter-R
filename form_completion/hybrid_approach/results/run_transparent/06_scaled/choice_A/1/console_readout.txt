@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 111 x 111
+	-number of rings: 44
+	-number of wedges: 171
+	-blindspot_radius: 11.003692
+
+subslice identified in 1:...
+
+	-Location in target slice: [26 10]
+	-Variance (within retinal rings): 0.191860983068
+	-Density: 0.414218885821
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (135, 131)
+			-Rotation: wedge 27 out of 50, which corresponds to the
+			subslice being rotated 194.40 degrees anti-clockwise
+			-Similarity: 0.790317
+
+		Slice:
+			-Flipped? False
+			-Location: (124, 104)
+			-Rotation: wedge 93 out of 172, which corresponds to the
+			slice being rotated 194.65 degrees anti-clockwise
+			-Similarity: 0.551062
+
+		Hybrid Similarity: 0.590938
+
+
+Subslice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (130, 118)
+			-Rotation: wedge 19 out of 50, which corresponds to the
+			subslice being rotated 136.80 degrees anti-clockwise
+			-Similarity: 0.803429
+
+		Slice:
+			-Flipped? True
+			-Location: (122, 100)
+			-Rotation: wedge 63 out of 172, which corresponds to the
+			slice being rotated 131.86 degrees anti-clockwise
+			-Similarity: 0.508225
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (135, 131)
+			-Rotation: wedge 27 out of 50, which corresponds to the
+			subslice being rotated 194.40 degrees anti-clockwise
+			-Similarity: 0.790317
+
+		Slice:
+			-Flipped? False
+			-Location: (124, 104)
+			-Rotation: wedge 93 out of 172, which corresponds to the
+			slice being rotated 194.65 degrees anti-clockwise
+			-Similarity: 0.551062
+

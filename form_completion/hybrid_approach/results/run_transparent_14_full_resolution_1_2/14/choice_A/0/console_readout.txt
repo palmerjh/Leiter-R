@@ -1,0 +1,291 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 27
+	-number of wedges: 103
+	-blindspot_radius: 3.252218
+
+Using small subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 27
+	-number of wedges: 103
+	-blindspot_radius: 3.252218
+
+Using retina with following parameters:
+	-size: 79 x 79
+	-number of rings: 31
+	-number of wedges: 120
+	-blindspot_radius: 7.729760
+
+subslice identified in 0:...
+
+	-Location in target slice: [28 19]
+	-Variance (within retinal rings): 0.050726290275
+	-Density: 0.281544493726
+
+Results:...
+
+
+Hybrid Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (125, 138)
+			-Rotation: wedge 95 out of 103, which corresponds to the
+			subslice being rotated 332.04 degrees anti-clockwise
+			-Similarity: 0.396301
+
+		Slice:
+			-Flipped? True
+			-Location: (96, 115)
+			-Rotation: wedge 110 out of 120, which corresponds to the
+			slice being rotated 330.00 degrees anti-clockwise
+			-Similarity: 0.416843
+
+		Hybrid Similarity: 0.409996
+
+	Slot 1:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (72, 136)
+			-Rotation: wedge 12 out of 103, which corresponds to the
+			subslice being rotated 41.94 degrees anti-clockwise
+			-Similarity: 0.365299
+
+		Slice:
+			-Flipped? True
+			-Location: (47, 107)
+			-Rotation: wedge 13 out of 120, which corresponds to the
+			slice being rotated 39.00 degrees anti-clockwise
+			-Similarity: 0.417935
+
+		Hybrid Similarity: 0.400390
+
+	Slot 2:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (51, 100)
+			-Rotation: wedge 26 out of 103, which corresponds to the
+			subslice being rotated 90.87 degrees anti-clockwise
+			-Similarity: 0.372436
+
+		Slice:
+			-Flipped? True
+			-Location: (32, 72)
+			-Rotation: wedge 30 out of 120, which corresponds to the
+			slice being rotated 90.00 degrees anti-clockwise
+			-Similarity: 0.423987
+
+		Hybrid Similarity: 0.406803
+
+	Slot 3:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (125, 137)
+			-Rotation: wedge 95 out of 103, which corresponds to the
+			subslice being rotated 332.04 degrees anti-clockwise
+			-Similarity: 0.378282
+
+		Slice:
+			-Flipped? True
+			-Location: (96, 114)
+			-Rotation: wedge 110 out of 120, which corresponds to the
+			slice being rotated 330.00 degrees anti-clockwise
+			-Similarity: 0.420602
+
+		Hybrid Similarity: 0.406495
+
+	Slot 4:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (149, 93)
+			-Rotation: wedge 77 out of 103, which corresponds to the
+			subslice being rotated 269.13 degrees anti-clockwise
+			-Similarity: 0.391090
+
+		Slice:
+			-Flipped? True
+			-Location: (123, 76)
+			-Rotation: wedge 90 out of 120, which corresponds to the
+			slice being rotated 270.00 degrees anti-clockwise
+			-Similarity: 0.404846
+
+		Hybrid Similarity: 0.400261
+
+
+Subslice Results:
+
+	(Flipped) Best Slot: 3
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (70, 64)
+			-Rotation: wedge 25 out of 103, which corresponds to the
+			subslice being rotated 87.38 degrees anti-clockwise
+			-Similarity: 0.404826
+
+		Slice:
+			-Flipped? False
+			-Location: (44, 36)
+			-Rotation: wedge 29 out of 120, which corresponds to the
+			slice being rotated 87.00 degrees anti-clockwise
+			-Similarity: 0.365718
+
+	Slot 1:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (62, 70)
+			-Rotation: wedge 51 out of 103, which corresponds to the
+			subslice being rotated 178.25 degrees anti-clockwise
+			-Similarity: 0.403278
+
+		Slice:
+			-Flipped? True
+			-Location: (45, 51)
+			-Rotation: wedge 60 out of 120, which corresponds to the
+			slice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.354955
+
+	Slot 2:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (53, 82)
+			-Rotation: wedge 35 out of 103, which corresponds to the
+			subslice being rotated 122.33 degrees anti-clockwise
+			-Similarity: 0.406225
+
+		Slice:
+			-Flipped? True
+			-Location: (36, 56)
+			-Rotation: wedge 40 out of 120, which corresponds to the
+			slice being rotated 120.00 degrees anti-clockwise
+			-Similarity: 0.364347
+
+	Slot 3:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (146, 105)
+			-Rotation: wedge 32 out of 103, which corresponds to the
+			subslice being rotated 111.84 degrees anti-clockwise
+			-Similarity: 0.420018
+
+		Slice:
+			-Flipped? True
+			-Location: (129, 79)
+			-Rotation: wedge 38 out of 120, which corresponds to the
+			slice being rotated 114.00 degrees anti-clockwise
+			-Similarity: 0.367187
+
+	Slot 4:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (76, 64)
+			-Rotation: wedge 52 out of 103, which corresponds to the
+			subslice being rotated 181.75 degrees anti-clockwise
+			-Similarity: 0.403440
+
+		Slice:
+			-Flipped? True
+			-Location: (59, 45)
+			-Rotation: wedge 60 out of 120, which corresponds to the
+			slice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.361004
+
+
+Slice Results:
+
+	(Flipped) Best Slot: 2
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (125, 138)
+			-Rotation: wedge 95 out of 103, which corresponds to the
+			subslice being rotated 332.04 degrees anti-clockwise
+			-Similarity: 0.396301
+
+		Slice:
+			-Flipped? True
+			-Location: (96, 115)
+			-Rotation: wedge 110 out of 120, which corresponds to the
+			slice being rotated 330.00 degrees anti-clockwise
+			-Similarity: 0.416843
+
+	Slot 1:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (72, 136)
+			-Rotation: wedge 12 out of 103, which corresponds to the
+			subslice being rotated 41.94 degrees anti-clockwise
+			-Similarity: 0.365299
+
+		Slice:
+			-Flipped? True
+			-Location: (47, 107)
+			-Rotation: wedge 13 out of 120, which corresponds to the
+			slice being rotated 39.00 degrees anti-clockwise
+			-Similarity: 0.417935
+
+	Slot 2:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (51, 100)
+			-Rotation: wedge 26 out of 103, which corresponds to the
+			subslice being rotated 90.87 degrees anti-clockwise
+			-Similarity: 0.372436
+
+		Slice:
+			-Flipped? True
+			-Location: (32, 72)
+			-Rotation: wedge 30 out of 120, which corresponds to the
+			slice being rotated 90.00 degrees anti-clockwise
+			-Similarity: 0.423987
+
+	Slot 3:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (125, 137)
+			-Rotation: wedge 95 out of 103, which corresponds to the
+			subslice being rotated 332.04 degrees anti-clockwise
+			-Similarity: 0.378282
+
+		Slice:
+			-Flipped? True
+			-Location: (96, 114)
+			-Rotation: wedge 110 out of 120, which corresponds to the
+			slice being rotated 330.00 degrees anti-clockwise
+			-Similarity: 0.420602
+
+	Slot 4:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (65, 132)
+			-Rotation: wedge 64 out of 103, which corresponds to the
+			subslice being rotated 223.69 degrees anti-clockwise
+			-Similarity: 0.347899
+
+		Slice:
+			-Flipped? False
+			-Location: (49, 111)
+			-Rotation: wedge 74 out of 120, which corresponds to the
+			slice being rotated 222.00 degrees anti-clockwise
+			-Similarity: 0.410488
+

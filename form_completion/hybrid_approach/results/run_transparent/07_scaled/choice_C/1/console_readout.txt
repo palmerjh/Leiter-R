@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 223 x 223
+	-number of rings: 45
+	-number of wedges: 172
+	-blindspot_radius: 21.541312
+
+subslice identified in 1:...
+
+	-Location in target slice: [52 36]
+	-Variance (within retinal rings): 0.0528387260461
+	-Density: 0.494108361065
+
+Results:...
+
+
+Hybrid Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (249, 323)
+			-Rotation: wedge 38 out of 50, which corresponds to the
+			subslice being rotated 273.60 degrees anti-clockwise
+			-Similarity: 0.656802
+
+		Slice:
+			-Flipped? True
+			-Location: (190, 280)
+			-Rotation: wedge 130 out of 172, which corresponds to the
+			slice being rotated 272.09 degrees anti-clockwise
+			-Similarity: 0.567514
+
+		Hybrid Similarity: 0.582396
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (246, 331)
+			-Rotation: wedge 18 out of 50, which corresponds to the
+			subslice being rotated 129.60 degrees anti-clockwise
+			-Similarity: 0.719403
+
+		Slice:
+			-Flipped? False
+			-Location: (193, 272)
+			-Rotation: wedge 64 out of 172, which corresponds to the
+			slice being rotated 133.95 degrees anti-clockwise
+			-Similarity: 0.390044
+
+
+Slice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (251, 324)
+			-Rotation: wedge 38 out of 50, which corresponds to the
+			subslice being rotated 273.60 degrees anti-clockwise
+			-Similarity: 0.642981
+
+		Slice:
+			-Flipped? True
+			-Location: (192, 281)
+			-Rotation: wedge 129 out of 172, which corresponds to the
+			slice being rotated 270.00 degrees anti-clockwise
+			-Similarity: 0.568552
+

@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 128 x 128
+	-number of rings: 34
+	-number of wedges: 130
+	-blindspot_radius: 12.286901
+
+subslice identified in 1:...
+
+	-Location in target slice: [ 1 12]
+	-Variance (within retinal rings): 0.0246364966654
+	-Density: 0.700844070962
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (90, 122)
+			-Rotation: wedge 26 out of 50, which corresponds to the
+			subslice being rotated 187.20 degrees anti-clockwise
+			-Similarity: 0.823558
+
+		Slice:
+			-Flipped? False
+			-Location: (45, 86)
+			-Rotation: wedge 100 out of 197, which corresponds to the
+			slice being rotated 182.74 degrees anti-clockwise
+			-Similarity: 0.639924
+
+		Hybrid Similarity: 0.670529
+
+
+Subslice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (89, 118)
+			-Rotation: wedge 8 out of 50, which corresponds to the
+			subslice being rotated 57.60 degrees anti-clockwise
+			-Similarity: 0.824584
+
+		Slice:
+			-Flipped? True
+			-Location: (86, 109)
+			-Rotation: wedge 34 out of 197, which corresponds to the
+			slice being rotated 62.13 degrees anti-clockwise
+			-Similarity: 0.535489
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (89, 122)
+			-Rotation: wedge 25 out of 50, which corresponds to the
+			subslice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.787147
+
+		Slice:
+			-Flipped? False
+			-Location: (42, 89)
+			-Rotation: wedge 96 out of 197, which corresponds to the
+			slice being rotated 175.43 degrees anti-clockwise
+			-Similarity: 0.644023
+

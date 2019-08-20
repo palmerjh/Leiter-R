@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 88 x 88
+	-number of rings: 35
+	-number of wedges: 135
+	-blindspot_radius: 8.621691
+
+subslice identified in 1:...
+
+	-Location in target slice: [26 18]
+	-Variance (within retinal rings): 0.028552000779
+	-Density: 0.658771431983
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (121, 499)
+			-Rotation: wedge 44 out of 50, which corresponds to the
+			subslice being rotated 316.80 degrees anti-clockwise
+			-Similarity: 0.821615
+
+		Slice:
+			-Flipped? False
+			-Location: (96, 492)
+			-Rotation: wedge 117 out of 135, which corresponds to the
+			slice being rotated 312.00 degrees anti-clockwise
+			-Similarity: 0.857272
+
+		Hybrid Similarity: 0.851329
+
+
+Subslice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (169, 463)
+			-Rotation: wedge 6 out of 50, which corresponds to the
+			subslice being rotated 43.20 degrees anti-clockwise
+			-Similarity: 0.845043
+
+		Slice:
+			-Flipped? True
+			-Location: (143, 445)
+			-Rotation: wedge 14 out of 135, which corresponds to the
+			slice being rotated 37.33 degrees anti-clockwise
+			-Similarity: 0.698006
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (120, 498)
+			-Rotation: wedge 43 out of 50, which corresponds to the
+			subslice being rotated 309.60 degrees anti-clockwise
+			-Similarity: 0.814877
+
+		Slice:
+			-Flipped? False
+			-Location: (96, 492)
+			-Rotation: wedge 114 out of 135, which corresponds to the
+			slice being rotated 304.00 degrees anti-clockwise
+			-Similarity: 0.857717
+

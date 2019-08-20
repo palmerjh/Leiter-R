@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 327 x 327
+	-number of rings: 37
+	-number of wedges: 143
+	-blindspot_radius: 32.028565
+
+subslice identified in 2:...
+
+	-Location in target slice: [128 131]
+	-Variance (within retinal rings): 0.071307341751
+	-Density: 0.50201016703
+
+Results:...
+
+
+Hybrid Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (245, 428)
+			-Rotation: wedge 34 out of 50, which corresponds to the
+			subslice being rotated 244.80 degrees anti-clockwise
+			-Similarity: 0.702143
+
+		Slice:
+			-Flipped? True
+			-Location: (248, 376)
+			-Rotation: wedge 113 out of 168, which corresponds to the
+			slice being rotated 242.14 degrees anti-clockwise
+			-Similarity: 0.644778
+
+		Hybrid Similarity: 0.654339
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (242, 429)
+			-Rotation: wedge 37 out of 50, which corresponds to the
+			subslice being rotated 266.40 degrees anti-clockwise
+			-Similarity: 0.748231
+
+		Slice:
+			-Flipped? False
+			-Location: (111, 410)
+			-Rotation: wedge 126 out of 168, which corresponds to the
+			slice being rotated 270.00 degrees anti-clockwise
+			-Similarity: 0.484450
+
+
+Slice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (200, 238)
+			-Rotation: wedge 38 out of 50, which corresponds to the
+			subslice being rotated 273.60 degrees anti-clockwise
+			-Similarity: 0.661280
+
+		Slice:
+			-Flipped? True
+			-Location: (175, 227)
+			-Rotation: wedge 130 out of 168, which corresponds to the
+			slice being rotated 278.57 degrees anti-clockwise
+			-Similarity: 0.646426
+

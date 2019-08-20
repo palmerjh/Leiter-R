@@ -1,0 +1,85 @@
+Using subretina with following parameters:
+	-size: 35 x 35
+	-number of rings: 13
+	-number of wedges: 51
+	-blindspot_radius: 3.466849
+
+Using retina with following parameters:
+	-size: 132 x 132
+	-number of rings: 35
+	-number of wedges: 135
+	-blindspot_radius: 12.932536
+
+subslice identified in 1:...
+
+	-Location in target slice: [16 82]
+	-Variance (within retinal rings): 0.052750644726
+	-Density: 0.230941847165
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (192, 385)
+			-Rotation: wedge 27 out of 51, which corresponds to the
+			subslice being rotated 190.59 degrees anti-clockwise
+			-Similarity: 0.567966
+
+		Slice:
+			-Flipped? False
+			-Location: (105, 363)
+			-Rotation: wedge 72 out of 135, which corresponds to the
+			slice being rotated 192.00 degrees anti-clockwise
+			-Similarity: 0.775871
+
+		Hybrid Similarity: 0.741220
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (525, 332)
+			-Rotation: wedge 48 out of 51, which corresponds to the
+			subslice being rotated 338.82 degrees anti-clockwise
+			-Similarity: 0.593055
+
+		Slice:
+			-Flipped? False
+			-Location: (499, 242)
+			-Rotation: wedge 129 out of 135, which corresponds to the
+			slice being rotated 344.00 degrees anti-clockwise
+			-Similarity: 0.635537
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (192, 385)
+			-Rotation: wedge 27 out of 51, which corresponds to the
+			subslice being rotated 190.59 degrees anti-clockwise
+			-Similarity: 0.567966
+
+		Slice:
+			-Flipped? False
+			-Location: (105, 363)
+			-Rotation: wedge 72 out of 135, which corresponds to the
+			slice being rotated 192.00 degrees anti-clockwise
+			-Similarity: 0.775871
+

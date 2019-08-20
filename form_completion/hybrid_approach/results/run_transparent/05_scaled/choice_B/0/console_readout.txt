@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 177 x 177
+	-number of rings: 35
+	-number of wedges: 135
+	-blindspot_radius: 17.243381
+
+subslice identified in 0:...
+
+	-Location in target slice: [21 30]
+	-Variance (within retinal rings): 0.0254866814716
+	-Density: 0.601078709151
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (63, 412)
+			-Rotation: wedge 15 out of 50, which corresponds to the
+			subslice being rotated 108.00 degrees anti-clockwise
+			-Similarity: 0.731155
+
+		Slice:
+			-Flipped? False
+			-Location: (18, 389)
+			-Rotation: wedge 39 out of 136, which corresponds to the
+			slice being rotated 103.24 degrees anti-clockwise
+			-Similarity: 0.793305
+
+		Hybrid Similarity: 0.782947
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (279, 477)
+			-Rotation: wedge 38 out of 50, which corresponds to the
+			subslice being rotated 273.60 degrees anti-clockwise
+			-Similarity: 0.785687
+
+		Slice:
+			-Flipped? False
+			-Location: (249, 426)
+			-Rotation: wedge 102 out of 136, which corresponds to the
+			slice being rotated 270.00 degrees anti-clockwise
+			-Similarity: 0.568773
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (63, 412)
+			-Rotation: wedge 15 out of 50, which corresponds to the
+			subslice being rotated 108.00 degrees anti-clockwise
+			-Similarity: 0.731155
+
+		Slice:
+			-Flipped? False
+			-Location: (18, 389)
+			-Rotation: wedge 39 out of 136, which corresponds to the
+			slice being rotated 103.24 degrees anti-clockwise
+			-Similarity: 0.793305
+

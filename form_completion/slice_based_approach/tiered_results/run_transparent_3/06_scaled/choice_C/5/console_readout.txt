@@ -1,0 +1,22 @@
+Using retina with following parameters:
+	-size: 136 x 136
+	-number of rings: 21
+	-number of wedges: 82
+	-blindspot_radius: 13.544494
+
+Using slice 5:...
+
+Results:...
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Slice in Slot/Choice:
+			-Flipped? True
+			-Location: (319, 287)
+			-Rotation: wedge 36 out of 82, which corresponds to the
+			slice being rotated 158.05 degrees anti-clockwise
+			-Similarity: 0.925923
+
+

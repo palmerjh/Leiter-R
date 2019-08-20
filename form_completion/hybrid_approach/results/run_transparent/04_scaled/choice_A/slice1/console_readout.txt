@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 126 x 126
+	-number of rings: 33
+	-number of wedges: 128
+	-blindspot_radius: 12.388935
+
+subslice identified in slice1:...
+
+	-Location in target slice: [24 17]
+	-Variance (within retinal rings): 0.0553997781119
+	-Density: 0.477743098586
+
+Results:...
+
+
+Hybrid Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (211, 340)
+			-Rotation: wedge 17 out of 50, which corresponds to the
+			subslice being rotated 122.40 degrees anti-clockwise
+			-Similarity: 0.736294
+
+		Slice:
+			-Flipped? True
+			-Location: (193, 320)
+			-Rotation: wedge 68 out of 194, which corresponds to the
+			slice being rotated 126.19 degrees anti-clockwise
+			-Similarity: 0.673395
+
+		Hybrid Similarity: 0.683879
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (161, 352)
+			-Rotation: wedge 32 out of 50, which corresponds to the
+			subslice being rotated 230.40 degrees anti-clockwise
+			-Similarity: 0.755780
+
+		Slice:
+			-Flipped? False
+			-Location: (143, 326)
+			-Rotation: wedge 122 out of 194, which corresponds to the
+			slice being rotated 226.39 degrees anti-clockwise
+			-Similarity: 0.624251
+
+
+Slice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (211, 340)
+			-Rotation: wedge 17 out of 50, which corresponds to the
+			subslice being rotated 122.40 degrees anti-clockwise
+			-Similarity: 0.736294
+
+		Slice:
+			-Flipped? True
+			-Location: (193, 320)
+			-Rotation: wedge 68 out of 194, which corresponds to the
+			slice being rotated 126.19 degrees anti-clockwise
+			-Similarity: 0.673395
+

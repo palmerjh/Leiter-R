@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 225 x 225
+	-number of rings: 36
+	-number of wedges: 138
+	-blindspot_radius: 21.800859
+
+subslice identified in 1:...
+
+	-Location in target slice: [40 34]
+	-Variance (within retinal rings): 0.0189709139333
+	-Density: 0.520006077354
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (203, 515)
+			-Rotation: wedge 6 out of 50, which corresponds to the
+			subslice being rotated 43.20 degrees anti-clockwise
+			-Similarity: 0.833378
+
+		Slice:
+			-Flipped? False
+			-Location: (152, 483)
+			-Rotation: wedge 20 out of 174, which corresponds to the
+			slice being rotated 41.38 degrees anti-clockwise
+			-Similarity: 0.815009
+
+		Hybrid Similarity: 0.818071
+
+
+Subslice Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? True
+			-Location: (183, 107)
+			-Rotation: wedge 30 out of 50, which corresponds to the
+			subslice being rotated 216.00 degrees anti-clockwise
+			-Similarity: 0.848696
+
+		Slice:
+			-Flipped? True
+			-Location: (120, 66)
+			-Rotation: wedge 104 out of 174, which corresponds to the
+			slice being rotated 215.17 degrees anti-clockwise
+			-Similarity: 0.778252
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (203, 515)
+			-Rotation: wedge 6 out of 50, which corresponds to the
+			subslice being rotated 43.20 degrees anti-clockwise
+			-Similarity: 0.833378
+
+		Slice:
+			-Flipped? False
+			-Location: (152, 483)
+			-Rotation: wedge 20 out of 174, which corresponds to the
+			slice being rotated 41.38 degrees anti-clockwise
+			-Similarity: 0.815009
+

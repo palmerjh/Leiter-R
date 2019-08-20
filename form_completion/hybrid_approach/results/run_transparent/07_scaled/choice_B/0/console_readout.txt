@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 314 x 314
+	-number of rings: 42
+	-number of wedges: 161
+	-blindspot_radius: 30.426439
+
+subslice identified in 0:...
+
+	-Location in target slice: [23 51]
+	-Variance (within retinal rings): 0.0590512548169
+	-Density: 0.228334700783
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (255, 232)
+			-Rotation: wedge 25 out of 50, which corresponds to the
+			subslice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.696101
+
+		Slice:
+			-Flipped? False
+			-Location: (138, 144)
+			-Rotation: wedge 80 out of 161, which corresponds to the
+			slice being rotated 178.88 degrees anti-clockwise
+			-Similarity: 0.755683
+
+		Hybrid Similarity: 0.745753
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (255, 232)
+			-Rotation: wedge 25 out of 50, which corresponds to the
+			subslice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.696101
+
+		Slice:
+			-Flipped? False
+			-Location: (138, 144)
+			-Rotation: wedge 80 out of 161, which corresponds to the
+			slice being rotated 178.88 degrees anti-clockwise
+			-Similarity: 0.755683
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (255, 232)
+			-Rotation: wedge 25 out of 50, which corresponds to the
+			subslice being rotated 180.00 degrees anti-clockwise
+			-Similarity: 0.696101
+
+		Slice:
+			-Flipped? False
+			-Location: (138, 144)
+			-Rotation: wedge 80 out of 161, which corresponds to the
+			slice being rotated 178.88 degrees anti-clockwise
+			-Similarity: 0.755683
+

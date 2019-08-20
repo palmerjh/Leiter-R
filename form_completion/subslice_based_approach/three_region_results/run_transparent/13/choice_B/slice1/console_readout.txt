@@ -1,0 +1,533 @@
+Using retina with following parameters:
+	-size: 35 x 35
+	-number of rings: 13
+	-number of wedges: 51
+	-blindspot_radius: 3.466849
+
+Regions identified in slice1:...
+
+Primary region:
+	-Location in target slice: [127 127]
+	-Variance (within retinal rings): 0.0255234713555
+	-Density: 0.0953200760622
+Secondary region:
+	-Location in target slice: [12 56]
+	-Variance (within retinal rings): 0.0223781881227
+	-Density: 0.0352935532099
+Tertiary region:
+	-Location in target slice: [49 15]
+	-Variance (within retinal rings): 0.0214637654261
+	-Density: 0.056593893919
+
+Results:...
+
+
+Composite Results:
+
+	(Not flipped) Best Slot: 2
+
+	Slot 0:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (205, 75)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.297176
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (76, 37)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.429888
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (71, 93)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.138195
+
+
+		Composite Similarity: 0.253091
+
+	Slot 1:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (42, 30)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.486882
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (77, 161)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.136273
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (127, 138)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.528453
+
+
+		Composite Similarity: 0.393107
+
+	Slot 2:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (212, 24)
+			-Rotation: wedge 35 out of 51, which corresponds to the
+			region being rotated 247.06 degrees anti-clockwise
+			-Similarity: 0.324778
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (195, 158)
+			-Rotation: wedge 35 out of 51, which corresponds to the
+			region being rotated 247.06 degrees anti-clockwise
+			-Similarity: 0.201974
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (142, 141)
+			-Rotation: wedge 35 out of 51, which corresponds to the
+			region being rotated 247.06 degrees anti-clockwise
+			-Similarity: 0.531856
+
+
+		Composite Similarity: 0.398886
+
+	Slot 3:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (80, 94)
+			-Rotation: wedge 25 out of 51, which corresponds to the
+			region being rotated 176.47 degrees anti-clockwise
+			-Similarity: 0.428197
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (200, 157)
+			-Rotation: wedge 25 out of 51, which corresponds to the
+			region being rotated 176.47 degrees anti-clockwise
+			-Similarity: 0.207731
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (167, 201)
+			-Rotation: wedge 25 out of 51, which corresponds to the
+			region being rotated 176.47 degrees anti-clockwise
+			-Similarity: 0.300260
+
+
+		Composite Similarity: 0.283632
+
+	Slot 4:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (58, 27)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.477450
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (88, 159)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.622332
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (138, 138)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.133994
+
+
+		Composite Similarity: 0.334935
+
+
+Primary Results:
+
+	(Flipped) Best Slot: 0
+
+	Slot 0:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (148, 57)
+			-Rotation: wedge 37 out of 51, which corresponds to the
+			region being rotated 261.18 degrees anti-clockwise
+			-Similarity: 0.620701
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (229, 165)
+			-Rotation: wedge 37 out of 51, which corresponds to the
+			region being rotated 261.18 degrees anti-clockwise
+			-Similarity: 0.092950
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (0, 0)
+			-Rotation: wedge 37 out of 51, which corresponds to the
+			region being rotated 261.18 degrees anti-clockwise
+			-Similarity: 0.000000
+
+
+	Slot 1:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (42, 29)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.490313
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (77, 160)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.135935
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (128, 137)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.349985
+
+
+	Slot 2:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (211, 180)
+			-Rotation: wedge 3 out of 51, which corresponds to the
+			region being rotated 21.18 degrees anti-clockwise
+			-Similarity: 0.564425
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (123, 77)
+			-Rotation: wedge 3 out of 51, which corresponds to the
+			region being rotated 21.18 degrees anti-clockwise
+			-Similarity: 0.122393
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (170, 48)
+			-Rotation: wedge 3 out of 51, which corresponds to the
+			region being rotated 21.18 degrees anti-clockwise
+			-Similarity: 0.137303
+
+
+	Slot 3:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (114, 91)
+			-Rotation: wedge 0 out of 51, which corresponds to the
+			region being rotated 0.00 degrees anti-clockwise
+			-Similarity: 0.516735
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (4, 13)
+			-Rotation: wedge 0 out of 51, which corresponds to the
+			region being rotated 0.00 degrees anti-clockwise
+			-Similarity: 0.096709
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (0, 0)
+			-Rotation: wedge 0 out of 51, which corresponds to the
+			region being rotated 0.00 degrees anti-clockwise
+			-Similarity: 0.000000
+
+
+	Slot 4:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (71, 17)
+			-Rotation: wedge 23 out of 51, which corresponds to the
+			region being rotated 162.35 degrees anti-clockwise
+			-Similarity: 0.588784
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (200, 55)
+			-Rotation: wedge 23 out of 51, which corresponds to the
+			region being rotated 162.35 degrees anti-clockwise
+			-Similarity: 0.122393
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (176, 105)
+			-Rotation: wedge 23 out of 51, which corresponds to the
+			region being rotated 162.35 degrees anti-clockwise
+			-Similarity: 0.137270
+
+
+
+Secondary Results:
+
+	(Flipped) Best Slot: 4
+
+	Slot 0:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (206, 76)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.275008
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (77, 37)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.432449
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (72, 93)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.138212
+
+
+	Slot 1:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (43, 23)
+			-Rotation: wedge 29 out of 51, which corresponds to the
+			region being rotated 204.71 degrees anti-clockwise
+			-Similarity: 0.302104
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (119, 135)
+			-Rotation: wedge 29 out of 51, which corresponds to the
+			region being rotated 204.71 degrees anti-clockwise
+			-Similarity: 0.296495
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (69, 158)
+			-Rotation: wedge 29 out of 51, which corresponds to the
+			region being rotated 204.71 degrees anti-clockwise
+			-Similarity: 0.148461
+
+
+	Slot 2:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (199, 187)
+			-Rotation: wedge 9 out of 51, which corresponds to the
+			region being rotated 63.53 degrees anti-clockwise
+			-Similarity: 0.457286
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (80, 123)
+			-Rotation: wedge 9 out of 51, which corresponds to the
+			region being rotated 63.53 degrees anti-clockwise
+			-Similarity: 0.371680
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (62, 175)
+			-Rotation: wedge 9 out of 51, which corresponds to the
+			region being rotated 63.53 degrees anti-clockwise
+			-Similarity: 0.118302
+
+
+	Slot 3:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (204, 186)
+			-Rotation: wedge 10 out of 51, which corresponds to the
+			region being rotated 70.59 degrees anti-clockwise
+			-Similarity: 0.282108
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (96, 104)
+			-Rotation: wedge 10 out of 51, which corresponds to the
+			region being rotated 70.59 degrees anti-clockwise
+			-Similarity: 0.445121
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (70, 152)
+			-Rotation: wedge 10 out of 51, which corresponds to the
+			region being rotated 70.59 degrees anti-clockwise
+			-Similarity: 0.137980
+
+
+	Slot 4:
+
+		Primary Region:
+			-Flipped? True
+			-Location: (58, 27)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.477450
+
+		Secondary Region:
+			-Flipped? True
+			-Location: (88, 159)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.622332
+
+		Tertiary Region:
+			-Flipped? True
+			-Location: (138, 138)
+			-Rotation: wedge 41 out of 51, which corresponds to the
+			region being rotated 289.41 degrees anti-clockwise
+			-Similarity: 0.133994
+
+
+
+Tertiary Results:
+
+	(Not flipped) Best Slot: 2
+
+	Slot 0:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (149, 58)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.357317
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (0, 0)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.000000
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (30, -48)
+			-Rotation: wedge 7 out of 51, which corresponds to the
+			region being rotated 49.41 degrees anti-clockwise
+			-Similarity: 0.311152
+
+
+	Slot 1:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (210, 131)
+			-Rotation: wedge 21 out of 51, which corresponds to the
+			region being rotated 148.24 degrees anti-clockwise
+			-Similarity: 0.362813
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (0, 0)
+			-Rotation: wedge 21 out of 51, which corresponds to the
+			region being rotated 148.24 degrees anti-clockwise
+			-Similarity: 0.000000
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (37, -41)
+			-Rotation: wedge 21 out of 51, which corresponds to the
+			region being rotated 148.24 degrees anti-clockwise
+			-Similarity: 0.302528
+
+
+	Slot 2:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (213, 26)
+			-Rotation: wedge 36 out of 51, which corresponds to the
+			region being rotated 254.12 degrees anti-clockwise
+			-Similarity: 0.452868
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (184, 158)
+			-Rotation: wedge 36 out of 51, which corresponds to the
+			region being rotated 254.12 degrees anti-clockwise
+			-Similarity: 0.070344
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (134, 138)
+			-Rotation: wedge 36 out of 51, which corresponds to the
+			region being rotated 254.12 degrees anti-clockwise
+			-Similarity: 0.552624
+
+
+	Slot 3:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (102, 101)
+			-Rotation: wedge 25 out of 51, which corresponds to the
+			region being rotated 176.47 degrees anti-clockwise
+			-Similarity: 0.423531
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (225, 157)
+			-Rotation: wedge 25 out of 51, which corresponds to the
+			region being rotated 176.47 degrees anti-clockwise
+			-Similarity: 0.083887
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (193, 201)
+			-Rotation: wedge 25 out of 51, which corresponds to the
+			region being rotated 176.47 degrees anti-clockwise
+			-Similarity: 0.324203
+
+
+	Slot 4:
+
+		Primary Region:
+			-Flipped? False
+			-Location: (80, 155)
+			-Rotation: wedge 6 out of 51, which corresponds to the
+			region being rotated 42.35 degrees anti-clockwise
+			-Similarity: 0.460512
+
+		Secondary Region:
+			-Flipped? False
+			-Location: (39, 26)
+			-Rotation: wedge 6 out of 51, which corresponds to the
+			region being rotated 42.35 degrees anti-clockwise
+			-Similarity: 0.099261
+
+		Tertiary Region:
+			-Flipped? False
+			-Location: (93, 18)
+			-Rotation: wedge 6 out of 51, which corresponds to the
+			region being rotated 42.35 degrees anti-clockwise
+			-Similarity: 0.312448
+
+

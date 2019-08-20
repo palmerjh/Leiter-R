@@ -1,0 +1,91 @@
+Using subretina with following parameters:
+	-size: 34 x 34
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 3.295134
+
+Using small subretina with following parameters:
+	-size: 17 x 17
+	-number of rings: 13
+	-number of wedges: 50
+	-blindspot_radius: 1.647567
+
+Using retina with following parameters:
+	-size: 238 x 238
+	-number of rings: 38
+	-number of wedges: 146
+	-blindspot_radius: 23.123627
+
+subslice identified in 2:...
+
+	-Location in target slice: [73 41]
+	-Variance (within retinal rings): 0.08771969509
+	-Density: 0.651203142536
+
+Results:...
+
+
+Hybrid Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (205, 333)
+			-Rotation: wedge 37 out of 50, which corresponds to the
+			subslice being rotated 266.40 degrees anti-clockwise
+			-Similarity: 0.812551
+
+		Slice:
+			-Flipped? False
+			-Location: (164, 304)
+			-Rotation: wedge 137 out of 183, which corresponds to the
+			slice being rotated 269.51 degrees anti-clockwise
+			-Similarity: 0.830818
+
+		Hybrid Similarity: 0.827774
+
+
+Subslice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (206, 333)
+			-Rotation: wedge 38 out of 50, which corresponds to the
+			subslice being rotated 273.60 degrees anti-clockwise
+			-Similarity: 0.817389
+
+		Slice:
+			-Flipped? False
+			-Location: (165, 304)
+			-Rotation: wedge 137 out of 183, which corresponds to the
+			slice being rotated 269.51 degrees anti-clockwise
+			-Similarity: 0.824218
+
+
+Slice Results:
+
+	(Not flipped) Best Slot: 0
+
+	Slot 0:
+
+		Subslice Region:
+			-Flipped? False
+			-Location: (205, 333)
+			-Rotation: wedge 37 out of 50, which corresponds to the
+			subslice being rotated 266.40 degrees anti-clockwise
+			-Similarity: 0.812551
+
+		Slice:
+			-Flipped? False
+			-Location: (164, 304)
+			-Rotation: wedge 137 out of 183, which corresponds to the
+			slice being rotated 269.51 degrees anti-clockwise
+			-Similarity: 0.830818
+
